@@ -1,4 +1,4 @@
-jmp read_input     	   ; temp will store the number being read
+jmp read_input     	  ; temp will store the number being read
 temp dw 0
 
 read_input:
